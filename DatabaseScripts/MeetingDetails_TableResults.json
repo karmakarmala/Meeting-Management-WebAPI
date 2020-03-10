@@ -1,0 +1,58 @@
+[
+  {
+    "MeetingID": 1,
+    "MeetingSubject": "Sprint Planning- Team A",
+    "MeetingAgenda": "To plan the upcoming sprint and set up tasks.",
+    "MeetingTime": "Mon, 02 Mar 2020 02:00:00 GMT",
+    "MeetingAttendees": "Jerry,Reene,Harry"
+  },
+  {
+    "MeetingID": 2,
+    "MeetingSubject": "Daily Scrum Meeting - Team B",
+    "MeetingAgenda": "Daily Scrum Meeting - Team B",
+    "MeetingTime": "Tue, 10 Mar 2020 03:00:00 GMT",
+    "MeetingAttendees": "Reene,Venus,Serena,Roger,Ellen"
+  },
+  {
+    "MeetingID": 3,
+    "MeetingSubject": "Daily Scrum Meeting - Team B",
+    "MeetingAgenda": "Daily Scrum Meeting - Team B",
+    "MeetingTime": "Wed, 26 Feb 2020 09:00:00 GMT",
+    "MeetingAttendees": "Cristy,Harry,Megan,Alwin"
+  },
+  {
+    "MeetingID": 4,
+    "MeetingSubject": "Code Review",
+    "MeetingAgenda": "To review code of all the pull request created by Alvin and Reene.",
+    "MeetingTime": "Thu, 27 Feb 2020 05:00:00 GMT",
+    "MeetingAttendees": "Alwin,Reene,James"
+  },
+  {
+    "MeetingID": 5,
+    "MeetingSubject": "Code Review - Project A",
+    "MeetingAgenda": "Code Review - Project A",
+    "MeetingTime": "Fri, 28 Feb 2020 01:00:00 GMT",
+    "MeetingAttendees": "Ellen,Roger,Venus"
+  },
+  {
+    "MeetingID": 6,
+    "MeetingSubject": "Project Planning - Team B",
+    "MeetingAgenda": "Project planning and estimation.",
+    "MeetingTime": "Mon, 16 Mar 2020 01:00:00 GMT",
+    "MeetingAttendees": "Alwin,Bryan,Jerry,Serena,Ellen"
+  },
+  {
+    "MeetingID": 7,
+    "MeetingSubject": "Team meeting - Team A",
+    "MeetingAgenda": "Team meeting - Team A",
+    "MeetingTime": "Thu, 27 Feb 2020 01:00:00 GMT",
+    "MeetingAttendees": "Cristy,Harry,Megan,Jerry,Reene"
+  },
+  {
+    "MeetingID": 8,
+    "MeetingSubject": "Team Meeting- Team A",
+    "MeetingAgenda": "Meeting Agenda -Team Meeting- Team A",
+    "MeetingTime": "Wed, 26 Feb 2020 06:20:00 GMT",
+    "MeetingAttendees": "James,Cristy,Harry"
+  }
+]
