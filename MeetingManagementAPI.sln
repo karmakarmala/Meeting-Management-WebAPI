@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingManagementAPI", "MeetingManagementAPI.csproj", "{25CAB1CE-23DC-4930-A329-11456F55CC3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingManagementAPI", "MeetingManagementAPI.csproj", "{613C519A-1882-43BC-AB07-45D123277CE0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
