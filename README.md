@@ -1,6 +1,10 @@
 # Meeting-Management-WebAPI
-CRUD Microservices
- Using .Net Core Web API and EF
+
+Web API to demonstrate  
+
+- CRUD Microservices
+- .Net Core
+- EF Code First Approach 
 
 
 
